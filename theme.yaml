@@ -1,0 +1,15 @@
+name: "January"
+description: "Simple blog theme."
+author: "CRYDEsigN"
+homepage: ""
+code: "january"
+
+require:
+    - RainLab.Blog
+
+form:
+    fields:
+        site_name:
+            label: Site name
+            comment: The website name as it should appear on the front-end
+            default: January
